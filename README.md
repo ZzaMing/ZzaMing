@@ -16,20 +16,20 @@
 
 <br><br>
 
-<div align=center><h2>📚 Certifications</h2></div>
+<div align=center><h2>📚 Certifications</h2>
+정보처리기사 <br>
+SQL 개발자 <br>
+컴퓨터 활용능력 1급 <br>
+리눅스 마스터 2급 <br>
+네트워크 관리사 2급 <br>
+</div>
 
 <br><br>
 
 <div align=center><h2> Contact</h2></div>
 
 <div align=center> 
-  :@
-  <img src="https://img.shields.io/badge/whaudgus123@naver.com-03C75A?style=flat&logo=naver&logoColor=white" height="20"/>
+  📧 whaudgus123@naver.com
   <br>
-
-  <a href="whaudgus123@naver.com" target="_blank"/>
-  whaudgus123@naver.com
   📱 010-76806161
-  <img src="https://img.shields.io/badge/01076806161-FECC00?style=flat&logo=allociner&logoColor=white" height="20"/>
-  allocine
 </div>
