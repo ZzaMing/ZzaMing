@@ -11,6 +11,7 @@
   <br>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=RxDB&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white" height="20"/>
   <br>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" height="20"/>
@@ -19,10 +20,13 @@
 
 
 <div align=center><h3>🧰Tools</h3>
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=Intellijidea&logoColor=white" height="20"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="20"/>
+  <br>
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="20"/>
+  <br>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="20"/>
 
 </div>
 <br>
