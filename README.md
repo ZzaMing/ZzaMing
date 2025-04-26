@@ -34,7 +34,8 @@
 <div align=center><h3>📚 Certifications</h3>
 <h5>
 정보처리기사 <br>
-SQL 개발자 <br>
+SQLD <br>
+DAsP <br>
 컴퓨터 활용능력 1급 <br>
 리눅스 마스터 2급 <br>
 네트워크 관리사 2급 <br>
