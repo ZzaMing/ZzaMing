@@ -34,6 +34,7 @@
 <div align=center><h3>📚 Certifications</h3>
 <h5>
 정보처리기사 <br>
+빅데이터분석기사 <br>
 SQLD <br>
 DAsP <br>
 컴퓨터 활용능력 1급 <br>
